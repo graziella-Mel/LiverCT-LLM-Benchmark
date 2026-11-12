@@ -1,0 +1,9 @@
+openai>=1.30.0
+anthropic>=0.34.0
+google-generativeai>=0.7.0
+snorkel>=0.10.0
+pandas>=2.0.0
+scikit-learn>=1.4.0
+matplotlib>=3.8.0
+
+ 
