@@ -1,0 +1,330 @@
+﻿report_id,jev_liver_status,jev_liver_malignancy_status,jev_liver_malignancy_level,jev_Further_Exam_required,jev_liver_lesions_count,jev_liver_vague_multiple_present,jev_liver_steatosis,jev_liver_cirrhosis,jev_Hepatomegaly,jev_liver_vascular_disease,jev_liver_calcification,jev_Intrahepatic_duct_dilation
+report_0001,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0002,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0003,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0004,abnormal,Malignant,Secondary,N,1,N,N,N,N,N,N,Y
+report_0005,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0006,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0007,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0008,abnormal,Not malignant,not_mentioned,N,2,N,Y,N,N,N,N,N
+report_0009,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0010,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0011,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0012,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0013,abnormal,Not malignant,not_mentioned,N,0,N,Y,N,N,N,N,N
+report_0014,abnormal,Not malignant,not_mentioned,N,0,N,Y,N,Y,N,N,N
+report_0015,abnormal,Not malignant,not_mentioned,N,0,N,Y,N,N,N,N,N
+report_0016,abnormal,Not malignant,not_mentioned,N,0,N,Y,N,Y,N,N,N
+report_0017,abnormal,Not malignant,not_mentioned,N,0,N,Y,N,Y,N,N,N
+report_0018,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0019,abnormal,Not malignant,not_mentioned,N,0,N,Y,N,N,N,N,Y
+report_0020,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0021,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0022,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0023,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0024,abnormal,Not malignant,not_mentioned,N,1,N,N,N,Y,N,N,N
+report_0025,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0026,abnormal,Not malignant,not_mentioned,N,0,N,Y,N,N,N,N,N
+report_0027,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0028,abnormal,not_mentioned,not_mentioned,N,2,N,N,N,N,N,N,N
+report_0029,abnormal,Not malignant,not_mentioned,N,0,N,Y,N,N,N,N,N
+report_0030,abnormal,not_mentioned,not_mentioned,Y,2,N,N,N,N,N,N,N
+report_0031,abnormal,Not malignant,not_mentioned,N,0,N,N,N,N,N,Y,N
+report_0032,not_mentioned,not_mentioned,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0033,abnormal,Not malignant,not_mentioned,N,1,N,N,N,N,N,N,N
+report_0034,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0035,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0036,abnormal,Not malignant,not_mentioned,N,0,N,N,N,N,Y,N,N
+report_0037,abnormal,Not malignant,not_mentioned,Y,1,N,N,N,N,N,N,N
+report_0038,abnormal,Not malignant,not_mentioned,N,1,N,Y,N,Y,N,N,N
+report_0039,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0040,abnormal,Not malignant,not_mentioned,N,1,Y,N,N,N,N,N,N
+report_0041,abnormal,Not malignant,not_mentioned,N,0,N,Y,N,N,N,N,N
+report_0042,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0043,abnormal,Malignant,Secondary,N,2,N,N,N,N,N,N,N
+report_0044,abnormal,not_mentioned,not_mentioned,N,1,N,N,N,N,N,N,N
+report_0045,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0046,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0047,abnormal,Not malignant,not_mentioned,N,1,Y,N,N,N,N,N,N
+report_0048,abnormal,Not malignant,not_mentioned,N,0,N,Y,N,N,N,N,N
+report_0049,abnormal,Not malignant,not_mentioned,N,0,N,Y,N,N,N,N,N
+report_0050,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0051,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0052,abnormal,Not malignant,not_mentioned,N,0,N,Y,N,N,N,N,N
+report_0053,abnormal,Malignant,Secondary,N,3,Y,N,N,N,N,N,Y
+report_0054,abnormal,not_mentioned,not_mentioned,N,0,Y,N,N,N,N,N,N
+report_0055,abnormal,Not malignant,not_mentioned,N,0,N,N,N,N,Y,N,Y
+report_0056,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0057,abnormal,Malignant,not_mentioned,N,1,N,N,N,N,N,N,Y
+report_0058,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0059,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0060,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0061,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0062,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0063,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0064,abnormal,Not malignant,not_mentioned,N,1,N,N,N,N,N,N,N
+report_0065,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0066,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0067,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0068,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0069,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0070,abnormal,Not malignant,not_mentioned,N,0,N,Y,N,N,N,N,N
+report_0071,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0072,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0073,abnormal,Not malignant,not_mentioned,N,1,N,N,N,N,N,N,N
+report_0074,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0075,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0076,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0077,abnormal,Not malignant,not_mentioned,N,1,N,Y,N,N,N,N,Y
+report_0078,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0079,not_mentioned,not_mentioned,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0080,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0081,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0082,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0083,abnormal,not_mentioned,not_mentioned,Y,1,N,N,N,N,N,N,N
+report_0084,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0085,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0086,abnormal,Not malignant,not_mentioned,N,0,Y,N,N,N,N,N,N
+report_0087,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0088,abnormal,Not malignant,not_mentioned,Y,2,Y,Y,N,Y,N,N,N
+report_0089,abnormal,not_mentioned,not_mentioned,Y,1,Y,N,N,N,N,N,N
+report_0090,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0091,not_mentioned,not_mentioned,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0092,abnormal,not_mentioned,not_mentioned,N,2,N,N,N,N,N,N,N
+report_0093,abnormal,Not malignant,not_mentioned,N,0,N,Y,N,N,N,N,Y
+report_0094,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0095,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0096,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0097,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0098,abnormal,Not malignant,not_mentioned,N,0,N,Y,N,N,N,N,N
+report_0099,abnormal,Malignant,Secondary,N,1,Y,N,N,N,N,N,Y
+report_0100,not_mentioned,not_mentioned,Secondary,N,0,N,N,N,N,N,N,N
+report_0101,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0102,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0103,abnormal,Not malignant,not_mentioned,N,0,Y,N,N,N,N,N,Y
+report_0104,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0105,abnormal,Not malignant,not_mentioned,N,0,N,N,N,Y,N,N,N
+report_0106,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0107,abnormal,Not malignant,not_mentioned,N,1,N,N,N,N,N,N,N
+report_0108,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0109,abnormal,Not malignant,not_mentioned,N,0,N,Y,N,N,N,N,N
+report_0110,abnormal,Not malignant,not_mentioned,N,0,N,Y,N,N,N,N,N
+report_0111,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0112,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0113,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0114,abnormal,Not malignant,not_mentioned,N,0,N,N,N,N,Y,N,N
+report_0115,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0116,abnormal,Malignant,Secondary,N,0,Y,N,N,N,N,N,N
+report_0117,abnormal,Not malignant,not_mentioned,N,0,N,N,N,Y,N,N,N
+report_0118,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0119,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,Y
+report_0120,abnormal,Not malignant,not_mentioned,N,2,N,N,N,N,N,Y,Y
+report_0121,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,Y
+report_0122,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0123,abnormal,Malignant,Secondary,N,1,Y,N,N,N,N,N,N
+report_0124,abnormal,Not malignant,not_mentioned,N,1,N,N,N,N,N,N,N
+report_0125,abnormal,Not malignant,not_mentioned,N,0,N,Y,N,N,N,N,N
+report_0126,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0127,abnormal,Not malignant,not_mentioned,N,1,N,Y,N,N,N,N,N
+report_0128,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0129,abnormal,not_mentioned,not_mentioned,N,1,Y,N,N,N,N,Y,N
+report_0130,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0131,abnormal,Not malignant,not_mentioned,N,0,Y,N,N,N,N,N,N
+report_0132,abnormal,Not malignant,not_mentioned,N,1,N,N,N,N,N,N,N
+report_0133,abnormal,not_mentioned,not_mentioned,N,1,N,Y,N,Y,N,N,Y
+report_0134,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0135,abnormal,Not malignant,not_mentioned,N,0,N,N,N,Y,N,N,N
+report_0136,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0137,abnormal,Not malignant,not_mentioned,N,1,N,N,N,N,N,N,N
+report_0138,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0139,not_mentioned,not_mentioned,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0140,abnormal,Not malignant,not_mentioned,N,1,N,Y,N,N,N,N,N
+report_0141,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0142,abnormal,Not malignant,not_mentioned,N,1,N,N,N,N,N,N,N
+report_0143,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0144,abnormal,not_mentioned,not_mentioned,Y,0,N,N,N,Y,N,N,N
+report_0145,abnormal,Malignant,Secondary,N,2,Y,N,N,N,N,N,N
+report_0146,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0147,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0148,abnormal,Not malignant,not_mentioned,N,0,N,Y,N,N,N,N,N
+report_0149,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0150,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0151,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0152,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0153,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0154,abnormal,Not malignant,not_mentioned,N,0,N,Y,N,N,N,N,N
+report_0155,abnormal,Not malignant,not_mentioned,N,0,N,N,N,Y,N,N,N
+report_0156,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0157,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0158,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0159,abnormal,Not malignant,not_mentioned,N,0,N,Y,N,N,N,N,N
+report_0160,abnormal,Not malignant,not_mentioned,N,0,N,N,N,Y,N,N,N
+report_0161,abnormal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0162,abnormal,Not malignant,not_mentioned,N,1,N,N,N,N,N,N,N
+report_0163,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0164,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0165,abnormal,Not malignant,not_mentioned,N,1,N,Y,N,N,N,Y,N
+report_0166,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,Y
+report_0167,not_mentioned,not_mentioned,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0168,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0169,abnormal,not_mentioned,not_mentioned,N,0,Y,N,N,N,N,N,N
+report_0170,not_mentioned,not_mentioned,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0171,abnormal,Not malignant,not_mentioned,N,0,Y,Y,N,Y,N,Y,N
+report_0172,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0173,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0174,normal,Not malignant,not_mentioned,N,1,N,N,N,N,N,N,N
+report_0175,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0176,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0177,not_mentioned,not_mentioned,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0178,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0179,abnormal,Not malignant,not_mentioned,N,1,N,N,N,N,N,N,N
+report_0180,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0181,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0182,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0183,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0184,abnormal,Not malignant,not_mentioned,N,0,Y,N,N,N,N,N,N
+report_0185,abnormal,Not malignant,not_mentioned,N,1,N,N,N,N,N,N,N
+report_0186,abnormal,Not malignant,not_mentioned,N,0,N,Y,N,N,N,Y,N
+report_0187,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0188,abnormal,Malignant,Secondary,N,2,Y,N,N,N,N,N,N
+report_0189,abnormal,Not malignant,not_mentioned,N,0,N,Y,N,N,N,N,N
+report_0190,abnormal,not_mentioned,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0191,abnormal,Not malignant,not_mentioned,N,1,Y,N,N,N,N,N,N
+report_0192,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0193,abnormal,Not malignant,not_mentioned,N,1,N,N,N,N,N,N,N
+report_0194,abnormal,Not malignant,not_mentioned,N,0,N,N,N,N,Y,N,N
+report_0195,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0196,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0197,not_mentioned,not_mentioned,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0198,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0199,abnormal,Malignant,Secondary,N,1,Y,N,N,N,N,N,N
+report_0200,abnormal,Not malignant,not_mentioned,N,0,N,Y,N,N,N,N,N
+report_0201,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0202,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0203,abnormal,Not malignant,not_mentioned,N,0,N,Y,N,N,N,N,N
+report_0204,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0205,not_mentioned,not_mentioned,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0206,abnormal,not_mentioned,not_mentioned,N,1,N,N,N,N,N,N,N
+report_0207,not_mentioned,not_mentioned,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0208,not_mentioned,not_mentioned,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0209,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0210,not_mentioned,not_mentioned,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0211,abnormal,Not malignant,not_mentioned,N,0,N,N,N,Y,N,N,N
+report_0212,abnormal,Not malignant,not_mentioned,Y,1,N,N,N,N,N,N,N
+report_0213,abnormal,Not malignant,not_mentioned,N,1,N,Y,N,N,N,N,N
+report_0214,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0215,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0216,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0217,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0218,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0219,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0220,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0221,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0222,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0223,abnormal,Not malignant,not_mentioned,N,1,N,N,N,N,N,N,N
+report_0224,abnormal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,Y
+report_0225,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0226,abnormal,Not malignant,not_mentioned,N,1,Y,N,N,Y,N,N,N
+report_0227,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0228,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0229,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0230,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0231,abnormal,Not malignant,not_mentioned,N,0,Y,N,N,N,N,N,N
+report_0232,abnormal,Not malignant,not_mentioned,N,1,N,N,N,N,N,N,N
+report_0233,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0234,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0235,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0236,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0237,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0238,abnormal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0239,abnormal,Not malignant,not_mentioned,N,0,Y,N,N,N,N,Y,N
+report_0240,abnormal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0241,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0242,abnormal,Not malignant,not_mentioned,N,1,Y,Y,N,Y,N,N,N
+report_0243,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0244,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0245,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0246,abnormal,not_mentioned,not_mentioned,N,1,N,N,N,N,N,N,Y
+report_0247,abnormal,not_mentioned,not_mentioned,N,1,Y,N,N,N,Y,N,N
+report_0248,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0249,not_mentioned,not_mentioned,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0250,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0251,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0252,abnormal,Not malignant,not_mentioned,N,0,N,Y,N,Y,N,N,N
+report_0253,abnormal,Not malignant,Secondary,N,0,Y,Y,N,N,N,N,N
+report_0254,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0255,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0256,abnormal,Not malignant,not_mentioned,N,1,N,N,Y,N,N,N,N
+report_0257,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0258,abnormal,Not malignant,not_mentioned,N,0,N,Y,N,N,N,N,N
+report_0259,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0260,abnormal,Not malignant,not_mentioned,N,1,N,N,N,N,N,N,N
+report_0261,not_mentioned,not_mentioned,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0262,not_mentioned,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0263,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0264,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0265,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0266,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0267,abnormal,Malignant,Secondary,Y,4,Y,N,N,N,N,N,N
+report_0268,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0269,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0270,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0271,abnormal,Not malignant,not_mentioned,N,0,N,Y,N,N,N,N,N
+report_0272,abnormal,Not malignant,not_mentioned,N,0,Y,N,N,N,N,Y,N
+report_0273,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0274,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,Y
+report_0275,abnormal,not_mentioned,not_mentioned,N,1,N,N,N,N,N,N,N
+report_0276,abnormal,Not malignant,not_mentioned,N,0,N,Y,N,N,N,N,N
+report_0277,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0278,abnormal,Not malignant,not_mentioned,N,0,N,Y,N,N,N,Y,N
+report_0279,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0280,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0281,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0282,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0283,abnormal,Not malignant,not_mentioned,N,1,N,Y,N,N,N,N,N
+report_0284,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0285,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0286,abnormal,not_mentioned,not_mentioned,Y,1,N,Y,N,Y,N,N,N
+report_0287,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0288,abnormal,Not malignant,not_mentioned,N,1,N,Y,N,N,N,N,N
+report_0289,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0290,abnormal,Not malignant,not_mentioned,N,1,N,N,N,N,N,N,N
+report_0291,abnormal,Not malignant,not_mentioned,N,0,N,N,Y,N,N,N,N
+report_0292,abnormal,Not malignant,not_mentioned,N,1,N,N,N,N,N,N,N
+report_0293,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0294,abnormal,Malignant,Secondary,N,0,Y,N,N,N,N,Y,N
+report_0295,abnormal,not_mentioned,not_mentioned,N,0,N,N,N,N,N,N,Y
+report_0296,abnormal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,Y
+report_0297,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0298,abnormal,Not malignant,not_mentioned,N,2,N,N,N,N,N,N,N
+report_0299,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0300,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0301,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0302,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0303,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0304,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0305,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0306,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0307,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0308,abnormal,Not malignant,not_mentioned,N,0,Y,N,N,N,N,N,N
+report_0309,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0310,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0311,not_mentioned,not_mentioned,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0312,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0313,abnormal,Not malignant,not_mentioned,N,0,N,Y,N,N,N,N,N
+report_0314,abnormal,Not malignant,not_mentioned,N,0,N,N,N,Y,N,N,N
+report_0315,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0316,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0317,abnormal,Not malignant,not_mentioned,N,0,Y,N,N,N,N,N,N
+report_0318,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0319,abnormal,Not malignant,not_mentioned,N,0,Y,N,N,N,N,N,N
+report_0320,not_mentioned,not_mentioned,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0321,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0322,abnormal,Not malignant,not_mentioned,N,0,N,N,N,Y,N,N,N
+report_0323,not_mentioned,not_mentioned,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0324,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0325,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0326,normal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,N
+report_0327,abnormal,Not malignant,not_mentioned,N,0,N,N,N,N,Y,N,N
+report_0328,abnormal,Not malignant,not_mentioned,N,0,N,N,N,N,N,N,Y
+report_0329,abnormal,Malignant,Primary,Y,1,N,N,Y,N,N,N,N
