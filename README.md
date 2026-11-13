@@ -56,9 +56,9 @@ For OpenAI, Anthropic and TypeSafe, configure the standard environment variables
 On Windows PowerShell:
 
 ```powershell
-$env:OPENAI_API_KEY = "your_openai_api_key"
-$env:ANTHROPIC_API_KEY = "your_anthropic_api_key"
-$env: 
+$env:OPENAI_API_KEY = ""
+$env:ANTHROPIC_API_KEY = ""
+$env:TYPESAFE_API_KEY = "" 
 ```
 
 
